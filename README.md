@@ -1,5 +1,6 @@
 # Angular
 Angular 4 Self Learning
+
 npm install
 (minimum node version required is v6.9 to run angular)
 npm install -g @angular/cli
